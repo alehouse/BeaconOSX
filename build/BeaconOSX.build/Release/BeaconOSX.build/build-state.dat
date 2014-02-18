@@ -1,0 +1,369 @@
+TBeaconOSX
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/BeaconOSX-Prefix-aqqmuxqukqefqdbfljmppouofphi/BeaconOSX-Prefix.pch.pch BeaconOSX/BeaconOSX-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/main.o /Volumes/SHARED/trough/BeaconOSX/BeaconOSX/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/BLCAppDelegate.o /Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BLCAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/BLCBeaconAdvertisementData.o /Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BLCBeaconAdvertisementData.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/MacOS/BeaconOSX normal x86_64
+cCpResource BeaconOSX/en.lproj/Credits.rtf build/Release/BeaconOSX.app/Contents/Resources/en.lproj/Credits.rtf
+cCompileXIB /Volumes/SHARED/trough/BeaconOSX/BeaconOSX/Base.lproj/MainMenu.xib
+cCopyStringsFile /Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/Resources/en.lproj/InfoPlist.strings BeaconOSX/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/Resources /Volumes/SHARED/trough/BeaconOSX/BeaconOSX/Images.xcassets
+cProcessInfoPlistFile /Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/Info.plist /Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BeaconOSX-Info.plist
+cGenerateDSYMFile /Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app.dSYM /Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/MacOS/BeaconOSX
+cTouch /Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c0000000052822B6200000000000000AA
+t1384262498
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000526C8246000000000000044C
+t1382842950
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000526C824600000000000001DB
+t1382842950
+s475
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000526C8247000000000000253C
+t1382842951
+s9532
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOBluetooth.framework/IOBluetooth
+c00000000526C8247000000000003C9E0
+t1382842951
+s248288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOBluetoothUI.framework/IOBluetoothUI
+c00000000526C824700000000000147C8
+t1382842951
+s83912
+
+N/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BLCAppDelegate.m
+c000000005302AB700000000000001252
+t1392683888
+s4690
+
+N/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BLCBeaconAdvertisementData.m
+c000000005302AB700000000000000B30
+t1392683888
+s2864
+
+N/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/Base.lproj/MainMenu.xib
+c000000005302AB7000000000000034EA
+t1392683888
+s13546
+
+N/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BeaconOSX-Info.plist
+c000000005302AB700000000000000450
+t1392683888
+s1104
+
+N/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BeaconOSX-Prefix.pch
+c000000005302AB7000000000000000AC
+t1392683888
+s172
+
+N/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/Images.xcassets
+c000000005302AB700000000000008000
+t1392683888
+s32768
+
+N/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/en.lproj/Credits.rtf
+c000000005302AB7000000000000001B4
+t1392683888
+s436
+
+N/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/en.lproj/InfoPlist.strings
+c000000005302AB70000000000000002D
+t1392683888
+s45
+
+N/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/main.m
+c000000005302AB7000000000000000FB
+t1392683888
+s251
+
+N/Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/BLCAppDelegate.o
+t1392683896
+s56852
+
+N/Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/BLCBeaconAdvertisementData.o
+t1392683896
+s19012
+
+N/Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/BeaconOSX.LinkFileList
+c000000005302AB780000000000000164
+t1392683896
+s356
+
+N/Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/main.o
+t1392683896
+s2896
+
+N/Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/assetcatalog_dependencies.txt
+t1392683896
+s127
+
+N/Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/assetcatalog_generated_info.plist
+t1392683896
+s181
+
+N/Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app
+t1392683896
+s32768
+
+N/Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app.dSYM
+t2
+s0
+
+N/Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/Info.plist
+t1392683896
+s1422
+
+N/Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/MacOS/BeaconOSX
+t1392683896
+s30200
+
+N/Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/PkgInfo
+t1392683896
+s8
+
+N/Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/Resources/Base.lproj/MainMenu.nib
+t1392683896
+s16142
+
+N/Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/Resources/en.lproj/Credits.rtf
+t1392683896
+s436
+
+N/Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1392683896
+s92
+
+N/var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/BeaconOSX-Prefix-aqqmuxqukqefqdbfljmppouofphi/BeaconOSX-Prefix.pch.pch
+t1392683897
+s13697972
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesfd11a6f8e2b2b841^d09aabf8e2b2b841^---0#1#1#--18"Check dependencies36"146259CF-3A02-44A0-82A4-0EEB70F09F7E-
+
+CCompileAssetCatalog /Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/Resources /Volumes/SHARED/trough/BeaconOSX/BeaconOSX/Images.xcassets
+s414376697.617311
+e414376697.633380
+r1
+xCompileAssetCatalog
+x/Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/Resources
+x/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/Images.xcassets
+o/* com.apple.actool.document.warnings */
+o/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/Images.xcassets:.: warning: Asset catalogs built with a minimum deployment target of 10.9 produce optimized car files, but this feature is unavailble when building from 10.8. Individual PNG files will be produced instead.
+o/* com.apple.actool.compilation-results */
+o/Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"[1mCompileAssetCatalog[0m build/Release/BeaconOSX.app/Contents/Resources [1mBeaconOSX/Images.xcassets[0m108"[1mCompileAssetCatalog[0m build/Release/BeaconOSX.app/Contents/Resources [1mBeaconOSX/Images.xcassets[0m51129ef9e2b2b841^8429a2f9e2b2b841^-463"/* com.apple.actool.document.warnings *//Volumes/SHARED/trough/BeaconOSX/BeaconOSX/Images.xcassets:.: warning: Asset catalogs built with a minimum deployment target of 10.9 produce optimized car files, but this feature is unavailble when building from 10.8. Individual PNG files will be produced instead./* com.apple.actool.compilation-results *//Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/assetcatalog_generated_info.plist1(21%IDEActivityLogMessage2@193"Asset catalogs built with a minimum deployment target of 10.9 produce optimized car files, but this feature is unavailble when building from 10.8. Individual PNG files will be produced instead.-414376697#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@75"file://localhost/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/Images.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--0#0#1#-19%DVTDocumentLocation4@75"file://localhost/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/Images.xcassets/0000000000000000^782"[1mCompileAssetCatalog[0m build/Release/BeaconOSX.app/Contents/Resources [1mBeaconOSX/Images.xcassets[0m    cd /Volumes/SHARED/trough/BeaconOSX    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/assetcatalog_dependencies.txt --output-partial-info-plist /Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/assetcatalog_generated_info.plist --app-icon AppIcon --platform macosx --minimum-deployment-target 10.9 --target-device mac --compile /Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/Resources /Volumes/SHARED/trough/BeaconOSX/BeaconOSX/Images.xcassets36"C17D879A-CA2B-4DED-8771-3F3213330B47-
+bC0279B90-8C61-45F7-9070-9A49C6C90F9C
+
+CCompileC build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/BLCAppDelegate.o /Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BLCAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414376697.458776
+e414376697.556189
+r1
+xCompileC
+xbuild/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/BLCAppDelegate.o
+x/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BLCAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BLCAppDelegate.m
+d/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BLCAppDelegate.h
+d/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BLCBeaconAdvertisementData.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BLCAppDelegate.m206"[1mCompileC[0m build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/BLCAppDelegate.o [1mBeaconOSX/BLCAppDelegate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler3c8475f9e2b2b841^56628ef9e2b2b841^---0#0#1#-19%DVTDocumentLocation2@75"file://localhost/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BLCAppDelegate.m0000000000000000^3067"[1mCompileC[0m build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/BLCAppDelegate.o [1mBeaconOSX/BLCAppDelegate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/trough/BeaconOSX    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/BeaconOSX-generated-files.hmap -I/Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/BeaconOSX-own-target-headers.hmap -I/Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/BeaconOSX-all-target-headers.hmap -iquote /Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/BeaconOSX-project-headers.hmap -I/Volumes/SHARED/trough/BeaconOSX/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/DerivedSources/x86_64 -I/Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/DerivedSources -F/Volumes/SHARED/trough/BeaconOSX/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/BeaconOSX-Prefix-aqqmuxqukqefqdbfljmppouofphi/BeaconOSX-Prefix.pch -MMD -MT dependencies -MF /Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/BLCAppDelegate.d --serialize-diagnostics /Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/BLCAppDelegate.dia -c /Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BLCAppDelegate.m -o /Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/BLCAppDelegate.o36"40580EDA-2C0E-4004-9E43-2FFBEE36A139-
+bC0279B90-8C61-45F7-9070-9A49C6C90F9C
+
+CCompileC build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/BLCBeaconAdvertisementData.o /Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BLCBeaconAdvertisementData.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414376697.458783
+e414376697.492776
+r1
+xCompileC
+xbuild/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/BLCBeaconAdvertisementData.o
+x/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BLCBeaconAdvertisementData.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BLCBeaconAdvertisementData.m
+d/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BLCBeaconAdvertisementData.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BLCBeaconAdvertisementData.m230"[1mCompileC[0m build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/BLCBeaconAdvertisementData.o [1mBeaconOSX/BLCBeaconAdvertisementData.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf98375f9e2b2b841^b3267ef9e2b2b841^---0#0#1#-19%DVTDocumentLocation2@87"file://localhost/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BLCBeaconAdvertisementData.m0000000000000000^3139"[1mCompileC[0m build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/BLCBeaconAdvertisementData.o [1mBeaconOSX/BLCBeaconAdvertisementData.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/trough/BeaconOSX    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/BeaconOSX-generated-files.hmap -I/Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/BeaconOSX-own-target-headers.hmap -I/Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/BeaconOSX-all-target-headers.hmap -iquote /Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/BeaconOSX-project-headers.hmap -I/Volumes/SHARED/trough/BeaconOSX/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/DerivedSources/x86_64 -I/Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/DerivedSources -F/Volumes/SHARED/trough/BeaconOSX/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/BeaconOSX-Prefix-aqqmuxqukqefqdbfljmppouofphi/BeaconOSX-Prefix.pch -MMD -MT dependencies -MF /Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/BLCBeaconAdvertisementData.d --serialize-diagnostics /Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/BLCBeaconAdvertisementData.dia -c /Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BLCBeaconAdvertisementData.m -o /Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/BLCBeaconAdvertisementData.o36"A3ED6585-B1C7-4ADD-B766-4E96BEF8C317-
+bC0279B90-8C61-45F7-9070-9A49C6C90F9C
+
+CCompileC build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/main.o /Volumes/SHARED/trough/BeaconOSX/BeaconOSX/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414376697.458761
+e414376697.478007
+r1
+xCompileC
+xbuild/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/main.o
+x/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Volumes/SHARED/trough/BeaconOSX/BeaconOSX/main.m186"[1mCompileC[0m build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/main.o [1mBeaconOSX/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler6f8475f9e2b2b841^145e7af9e2b2b841^---0#0#1#-19%DVTDocumentLocation2@65"file://localhost/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/main.m0000000000000000^3007"[1mCompileC[0m build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/main.o [1mBeaconOSX/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/trough/BeaconOSX    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/BeaconOSX-generated-files.hmap -I/Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/BeaconOSX-own-target-headers.hmap -I/Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/BeaconOSX-all-target-headers.hmap -iquote /Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/BeaconOSX-project-headers.hmap -I/Volumes/SHARED/trough/BeaconOSX/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/DerivedSources/x86_64 -I/Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/DerivedSources -F/Volumes/SHARED/trough/BeaconOSX/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/BeaconOSX-Prefix-aqqmuxqukqefqdbfljmppouofphi/BeaconOSX-Prefix.pch -MMD -MT dependencies -MF /Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/main.dia -c /Volumes/SHARED/trough/BeaconOSX/BeaconOSX/main.m -o /Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/main.o36"274FE663-10B0-4818-8E84-70C029691E54-
+bC0279B90-8C61-45F7-9070-9A49C6C90F9C
+
+CCompileXIB /Volumes/SHARED/trough/BeaconOSX/BeaconOSX/Base.lproj/MainMenu.xib
+s414376697.617083
+e414376697.719005
+r1
+xCompileXIB
+x/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/Base.lproj/MainMenu.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compiling /Volumes/SHARED/trough/BeaconOSX/BeaconOSX/Base.lproj/MainMenu.xib60"[1mCompileXIB[0m [1mBeaconOSX/Base.lproj/MainMenu.xib[0m42069ef9e2b2b841^d923b8f9e2b2b841^---0#0#1#-19%DVTDocumentLocation2@82"file://localhost/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/Base.lproj/MainMenu.xib0000000000000000^533"[1mCompileXIB[0m [1mBeaconOSX/Base.lproj/MainMenu.xib[0m    cd /Volumes/SHARED/trough/BeaconOSX    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 10.9 --output-format human-readable-text --compile /Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/Resources/Base.lproj/MainMenu.nib /Volumes/SHARED/trough/BeaconOSX/BeaconOSX/Base.lproj/MainMenu.xib36"99B38B47-0C65-42CF-AD14-170D2EFAF264-
+bC0279B90-8C61-45F7-9070-9A49C6C90F9C
+
+CCopyStringsFile /Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/Resources/en.lproj/InfoPlist.strings BeaconOSX/en.lproj/InfoPlist.strings
+s414376697.617087
+e414376697.631045
+r1
+xCopyStringsFile
+x/Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/Resources/en.lproj/InfoPlist.strings
+xBeaconOSX/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy BeaconOSX/en.lproj/InfoPlist.strings134"[1mCopyStringsFile[0m build/Release/BeaconOSX.app/Contents/Resources/en.lproj/InfoPlist.strings BeaconOSX/en.lproj/InfoPlist.strings2d0b9ef9e2b2b841^6895a1f9e2b2b841^---0#0#1#-19%DVTDocumentLocation2@85"file://localhost/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/en.lproj/InfoPlist.strings0000000000000000^394"[1mCopyStringsFile[0m build/Release/BeaconOSX.app/Contents/Resources/en.lproj/InfoPlist.strings BeaconOSX/en.lproj/InfoPlist.strings    cd /Volumes/SHARED/trough/BeaconOSX    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/Resources/en.lproj -- BeaconOSX/en.lproj/InfoPlist.strings36"2CF2ECCE-EAB8-47EC-9028-00636DA0FF5B-
+bC0279B90-8C61-45F7-9070-9A49C6C90F9C
+
+CCpResource BeaconOSX/en.lproj/Credits.rtf build/Release/BeaconOSX.app/Contents/Resources/en.lproj/Credits.rtf
+s414376697.617081
+e414376697.620843
+r1
+xCpResource
+xBeaconOSX/en.lproj/Credits.rtf
+xbuild/Release/BeaconOSX.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy build/Release/BeaconOSX.app/Contents/Resources/en.lproj/Credits.rtf117"[1mCpResource[0m BeaconOSX/en.lproj/Credits.rtf build/Release/BeaconOSX.app/Contents/Resources/en.lproj/Credits.rtfa60a9ef9e2b2b841^f6ef9ef9e2b2b841^---0#0#1#-19%DVTDocumentLocation2@116"file://localhost/Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/Resources/en.lproj/Credits.rtf00389865dcffdf42^549"[1mCpResource[0m BeaconOSX/en.lproj/Credits.rtf build/Release/BeaconOSX.app/Contents/Resources/en.lproj/Credits.rtf    cd /Volumes/SHARED/trough/BeaconOSX    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Volumes/SHARED/trough/BeaconOSX/BeaconOSX/en.lproj/Credits.rtf /Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/Resources/en.lproj36"C99CAC2F-1F86-46AC-812A-E6D1C356B300-
+bC0279B90-8C61-45F7-9070-9A49C6C90F9C
+
+CGenerateDSYMFile /Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app.dSYM /Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/MacOS/BeaconOSX
+s414376697.738456
+e414376697.751608
+r1
+xGenerateDSYMFile
+x/Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app.dSYM
+x/Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/MacOS/BeaconOSX
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Generate /Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app.dSYM118"[1mGenerateDSYMFile[0m [1mbuild/Release/BeaconOSX.app.dSYM[0m build/Release/BeaconOSX.app/Contents/MacOS/BeaconOSXa916bdf9e2b2b841^386bc0f9e2b2b841^---0#0#1#-19%DVTDocumentLocation2@81"file://localhost/Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app.dSYM00389865dcffdf42^414"[1mGenerateDSYMFile[0m [1mbuild/Release/BeaconOSX.app.dSYM[0m build/Release/BeaconOSX.app/Contents/MacOS/BeaconOSX    cd /Volumes/SHARED/trough/BeaconOSX    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/MacOS/BeaconOSX -o /Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app.dSYM36"07E462A7-E713-48FB-8AFD-DC206A3B8F0B-
+bC0279B90-8C61-45F7-9070-9A49C6C90F9C
+
+CLd /Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/MacOS/BeaconOSX normal x86_64
+s414376697.564552
+e414376697.608714
+r1
+xLd
+x/Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/MacOS/BeaconOSX
+xnormal
+xx86_64
+d/Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/BeaconOSX.LinkFileList
+d/Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/BLCAppDelegate.o
+d/Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/main.o
+d/Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/BLCBeaconAdvertisementData.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOBluetoothUI.framework/IOBluetoothUI
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOBluetooth.framework/IOBluetooth
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOBluetooth.framework/Versions/A/Frameworks/CoreBluetooth.framework/Versions/A/CoreBluetooth
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Link /Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/MacOS/BeaconOSX77"[1mLd[0m build/Release/BeaconOSX.app/Contents/MacOS/BeaconOSX normal x86_64b49490f9e2b2b841^f1d49bf9e2b2b841^---0#0#1#--987"[1mLd[0m build/Release/BeaconOSX.app/Contents/MacOS/BeaconOSX normal x86_64    cd /Volumes/SHARED/trough/BeaconOSX    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Volumes/SHARED/trough/BeaconOSX/build/Release -F/Volumes/SHARED/trough/BeaconOSX/build/Release -filelist /Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/BeaconOSX.LinkFileList -mmacosx-version-min=10.9 -fobjc-arc -fobjc-link-runtime -framework IOBluetoothUI -framework IOBluetooth -framework Cocoa -Xlinker -dependency_info -Xlinker /Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/Objects-normal/x86_64/BeaconOSX_dependency_info.dat -o /Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/MacOS/BeaconOSX36"8FCE0BB8-EF46-4F41-BA58-C3D4F4559FB9-
+bC0279B90-8C61-45F7-9070-9A49C6C90F9C
+
+CProcessInfoPlistFile /Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/Info.plist /Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BeaconOSX-Info.plist
+s414376697.726727
+e414376697.730470
+r1
+xProcessInfoPlistFile
+x/Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/Info.plist
+x/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BeaconOSX-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Process /Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BeaconOSX-Info.plist115"[1mProcessInfoPlistFile[0m build/Release/BeaconOSX.app/Contents/Info.plist [1mBeaconOSX/BeaconOSX-Info.plist[0m2219baf9e2b2b841^8a00bbf9e2b2b841^---0#0#1#-19%DVTDocumentLocation2@79"file://localhost/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BeaconOSX-Info.plist0000000000000000^597"[1mProcessInfoPlistFile[0m build/Release/BeaconOSX.app/Contents/Info.plist [1mBeaconOSX/BeaconOSX-Info.plist[0m    cd /Volumes/SHARED/trough/BeaconOSX    builtin-infoPlistUtility /Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BeaconOSX-Info.plist -genpkginfo /Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/PkgInfo -expandbuildsettings -platform macosx -additionalcontentfile /Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/assetcatalog_generated_info.plist -o /Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app/Contents/Info.plist36"DEE76CA3-1280-4076-B5D7-B257FEC4B030-
+bC0279B90-8C61-45F7-9070-9A49C6C90F9C
+
+CProcessPCH /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/BeaconOSX-Prefix-aqqmuxqukqefqdbfljmppouofphi/BeaconOSX-Prefix.pch.pch BeaconOSX/BeaconOSX-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414376696.673773
+e414376697.450430
+r1
+xProcessPCH
+x/var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/BeaconOSX-Prefix-aqqmuxqukqefqdbfljmppouofphi/BeaconOSX-Prefix.pch.pch
+xBeaconOSX/BeaconOSX-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BeaconOSX-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile BeaconOSX/BeaconOSX-Prefix.pch308"[1mProcessPCH[0m /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/BeaconOSX-Prefix-aqqmuxqukqefqdbfljmppouofphi/BeaconOSX-Prefix.pch.pch BeaconOSX/BeaconOSX-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler3d98acf8e2b2b841^ba4e73f9e2b2b841^---0#0#1#-19%DVTDocumentLocation2@79"file://localhost/Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BeaconOSX-Prefix.pch0000000000000000^3195"[1mProcessPCH[0m /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/BeaconOSX-Prefix-aqqmuxqukqefqdbfljmppouofphi/BeaconOSX-Prefix.pch.pch BeaconOSX/BeaconOSX-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/trough/BeaconOSX    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/BeaconOSX-generated-files.hmap -I/Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/BeaconOSX-own-target-headers.hmap -I/Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/BeaconOSX-all-target-headers.hmap -iquote /Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/BeaconOSX-project-headers.hmap -I/Volumes/SHARED/trough/BeaconOSX/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/DerivedSources/x86_64 -I/Volumes/SHARED/trough/BeaconOSX/build/BeaconOSX.build/Release/BeaconOSX.build/DerivedSources -F/Volumes/SHARED/trough/BeaconOSX/build/Release --serialize-diagnostics /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/BeaconOSX-Prefix-aqqmuxqukqefqdbfljmppouofphi/BeaconOSX-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/BeaconOSX-Prefix-aqqmuxqukqefqdbfljmppouofphi/BeaconOSX-Prefix.pch.d -c /Volumes/SHARED/trough/BeaconOSX/BeaconOSX/BeaconOSX-Prefix.pch -o /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/BeaconOSX-Prefix-aqqmuxqukqefqdbfljmppouofphi/BeaconOSX-Prefix.pch.pch36"E3EFD298-11CC-41B2-96A5-335570C812A9-
+bC0279B90-8C61-45F7-9070-9A49C6C90F9C
+
+CTouch /Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app
+s414376697.759852
+e414376697.764207
+r1
+xTouch
+x/Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Touch /Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app41"[1mTouch[0m build/Release/BeaconOSX.app4790c2f9e2b2b841^66a3c3f9e2b2b841^---0#0#1#--165"[1mTouch[0m build/Release/BeaconOSX.app    cd /Volumes/SHARED/trough/BeaconOSX    /usr/bin/touch -c /Volumes/SHARED/trough/BeaconOSX/build/Release/BeaconOSX.app36"E59FC87F-FE5A-423D-BF0F-49398639A43E-
+bC0279B90-8C61-45F7-9070-9A49C6C90F9C
+
